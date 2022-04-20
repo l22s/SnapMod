@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">مفعّلة</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="allow_download_public_dp_description">يسمح بصور ملفات تعريف الأصدقاء مع الملفات الشخصية العامة ليتم حفظها. اضغط باستمرار على صورة ملفهم الشخصي على صفحة أصدقائهم.</string>
+    <string name="allow_download_public_dp_title">السماح بتنزيل ملفات DP العامة</string>
+    <string name="allow_download_stories_description">يسمح بحفظ القصص (وأي لقطة شاشة كاملة). تمت إضافة خيار "حفظ" إلى قائمة القصص.</string>
+    <string name="allow_download_stories_title">السماح بتنزيل القصص</string>
+    <string name="allow_pin_chats_description">يسمح بتثبيت الدردشات مثل iOS.</string>
+    <string name="allow_pin_chats_title">السماح بتثبيت الدردشات</string>
+    <string name="allow_save_snaps_description">يسمح بحفظ اللقطات في المعرض كما لو تم حفظها في الدردشة.</string>
+    <string name="allow_save_snaps_title">السماح بحفظ Snaps.</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_name">SnapMod</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="block_ads_description">يزيل جميع الإعلانات بين القصص/كتشاف مقاطع الفيديو.</string>
+    <string name="block_ads_title">منع إعلانات</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
+    <string name="bypass_video_length_restrictions_description">يزيل قيود الوقت المحدد للفيديو عند إرسال اللقطات من درج المعرض في الدردشة.</string>
+    <string name="bypass_video_length_restrictions_title">تجاوز قيود طول الفيديو</string>
+    <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
+    <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="chip_text">نص رقاقة</string>
+    <string name="clear_text_end_icon_content_description">محو النص</string>
+    <string name="copy">نسخ</string>
+    <string name="debug_header">معلومات</string>
+    <string name="disable_bitmojis_description">تعطيل جميع Bitmojis في جميع أنحاء التطبيق.</string>
+    <string name="disable_bitmojis_title">تعطيل Bitmojis</string>
+    <string name="disable_camera_description">قم بتعطيل الكاميرا في جميع أجزاء التطبيق. هذا يحسن الأداء ووقت بدء التشغيل بشكل كبير.</string>
+    <string name="disable_camera_title">تعطيل الكاميرا</string>
+    <string name="disable_metrics_description">تعطيل بعض المقاييس (الجرافين) والتسجيل (عاصفة ثلجية قوية).</string>
+    <string name="disable_metrics_title">تعطيل بعض القياسات والتسجيل</string>
+    <string name="disable_spotlight_description">تعطيل أضواء كاشفة/يكتشف (5th) التبويب. هذا يمكن أن يحسن الأداء.</string>
+    <string name="disable_spotlight_title">تعطيل علامة التبويب أضواء كاشفة</string>
+    <string name="dont_release_description">يمنع الرسائل من أن يتم "إصدارها". يجب أن يمنع ذلك حذفها ، على الرغم من أنني غير متأكد.</string>
+    <string name="dont_release_messages_title">🧪 لا تحرر الرسائل</string>
+    <string name="download_path_audio_note_description">المسار الموجود على الجهاز لتنزيل الملاحظات الصوتية إليه.</string>
+    <string name="download_path_audio_note_title">مسار تنزيل الملاحظة الصوتية</string>
+    <string name="download_path_profile_description">المسار الموجود على الجهاز لتنزيل صور الملف الشخصي إليه.</string>
+    <string name="download_path_profile_title">مسار تنزيل صورة الملف الشخصي العام</string>
+    <string name="download_path_story_description">المسار الموجود على الجهاز لتنزيل القصص إليه.</string>
+    <string name="download_path_story_title">مسار تنزيل القصة</string>
+    <string name="downloads_header">التحميلات</string>
+    <string name="enable_friend_override_description">يلغي طريقة الإضافة التي يراها المستخدمون الآخرون عندما تقوم بإضافتهم كصديق.</string>
+    <string name="enable_friend_override_title">🧪 تجاوز طريقة إضافة صديق</string>
+    <string name="enable_snap_type_override_description">يضبط نوع اللقطة التي يتم إرسالها عند إرسال وسائط المعرض على الفور snap.</string>
+    <string name="enable_snap_type_override_title">🧪 تجاوز نوع المعرض سناب</string>
+    <string name="error_icon_content_description">خطأ</string>
+    <string name="expand_button_title">إعدادات متقدمة</string>
+    <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="friend_override_value_title">🧪 إضافة قيمة تجاوز صديق</string>
+    <string name="gallery_snap_time_title">معرض سناب الوقت المحدد</string>
+    <string name="hidden_friends_description">أدخل اسم المستخدم لكل صديق تريد إخفاءه في سطر جديد.</string>
+    <string name="hidden_friends_title">تحرير الأصدقاء المخفيين</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hide_enter_conversation_description">يمنع المستخدمين الآخرين من رؤية bitmoji يدخلون في محادثة.</string>
+    <string name="hide_enter_conversation_title">🧪 إخفاء إدخال المحادثة (Bitmoji)</string>
+    <string name="hide_exit_conversation_description">يمنع المستخدمين الآخرين من رؤية bitmoji الخاص بك من الخروج من المحادثة.</string>
+    <string name="hide_exit_conversation_title">🧪 إخفاء الخروج من المحادثة (Bitmoji)</string>
+    <string name="hide_friends_description">يخفي قائمة الأصدقاء المعينة من قوائم أصدقائك وأفضل الأصدقاء.</string>
+    <string name="hide_friends_title">إخفاء الأصدقاء</string>
+    <string name="hide_read_description">يمنع إرسال علامة القراءة.</string>
+    <string name="hide_read_title">🧪 إخفاء علامة القراءة</string>
+    <string name="hide_replay_description">يمنع إرسال رسائل الإعادة المفاجئة.</string>
+    <string name="hide_replay_title">إخفاء الإخطارات الإعادة</string>
+    <string name="hide_save_description">يمنع الدردشة حفظ/عدم حفظ الرسائل من إرسالها.</string>
+    <string name="hide_save_gallery_description">يمنع إرسال الرسائل المحفوظة في ألبوم الكاميرا.</string>
+    <string name="hide_save_gallery_title">إخفاء المحفوظة في ألبوم الكاميرا</string>
+    <string name="hide_save_title">🧪 إخفاء الدردشة المحفوظة/غير المحفوظة</string>
+    <string name="hide_screenshot_description">يمنع إرسال إشعارات لقطة الشاشة..</string>
+    <string name="hide_screenshot_title">إخفاء الإخطارات تسجيل/لقطة الشاشة</string>
+    <string name="hide_story_views_description">يمنع المستخدمين من معرفة أنك شاهدت قصصهم.</string>
+    <string name="hide_story_views_title">مشاهدة قصة مجهولة</string>
+    <string name="hide_typing_description">يمنع المستخدمين الآخرين من معرفة ما إذا كنت تكتب أم لا.</string>
+    <string name="hide_typing_title">إخفاء حالة الكتابة (Bitmoji)</string>
+    <string name="icon_content_description">رمز مربع الحوار</string>
+    <string name="item_view_role_description">علامة تبويب</string>
+    <string name="location_header">مشاركة الموقع</string>
+    <string name="location_share_lat_title">🧪 خط العرض</string>
+    <string name="location_share_long_title">🧪 خط الطول</string>
+    <string name="location_share_override_description">يتجاوز موقعك المشترك مع خط الطول وخط العرض المكونين أدناه. ليس لدي أي فكرة عما إذا كان هذا يعمل بالفعل.</string>
+    <string name="location_share_override_title">🧪 تجاوز مشاركة الموقع</string>
+    <string name="log_network_requests_description">يسجل بعض طلبات HTTP إلى LSPosed لتصحيح الأخطاء.</string>
+    <string name="log_network_requests_title">طلب تسجيل الشبكة</string>
+    <string name="m3_ref_typeface_brand_display_regular">sans-serif</string>
+    <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_brand_regular">sans-serif</string>
+    <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_plain_regular">sans-serif</string>
+    <string name="m3_sys_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_typescale_body_large_font">sans-serif</string>
+    <string name="m3_sys_typescale_body_medium_font">sans-serif</string>
+    <string name="m3_sys_typescale_body_small_font">sans-serif</string>
+    <string name="m3_sys_typescale_display_large_font">sans-serif</string>
+    <string name="m3_sys_typescale_display_medium_font">sans-serif</string>
+    <string name="m3_sys_typescale_display_small_font">sans-serif</string>
+    <string name="m3_sys_typescale_headline_large_font">sans-serif</string>
+    <string name="m3_sys_typescale_headline_medium_font">sans-serif</string>
+    <string name="m3_sys_typescale_headline_small_font">sans-serif</string>
+    <string name="m3_sys_typescale_label_large_font">sans-serif-medium</string>
+    <string name="m3_sys_typescale_label_medium_font">sans-serif-medium</string>
+    <string name="m3_sys_typescale_label_small_font">sans-serif-medium</string>
+    <string name="m3_sys_typescale_title_large_font">sans-serif</string>
+    <string name="m3_sys_typescale_title_medium_font">sans-serif-medium</string>
+    <string name="m3_sys_typescale_title_small_font">sans-serif-medium</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
+    <string name="material_hour_selection">تحديد الساعة</string>
+    <string name="material_hour_suffix">الساعة %1$s</string>
+    <string name="material_minute_selection">تحديد الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
+    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="material_slider_range_end">نهاية النطاق,</string>
+    <string name="material_slider_range_start">بداية المدى,</string>
+    <string name="material_timepicker_am">صباحًا</string>
+    <string name="material_timepicker_clock_mode_description">يُرجى التبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">الساعة</string>
+    <string name="material_timepicker_minute">دقيقة</string>
+    <string name="material_timepicker_pm">مساءً</string>
+    <string name="material_timepicker_select_time">اختيار الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="more_profile_info_description">يعرض مزيدًا من المعلومات حول صفحات الملف الشخصي للأصدقاء مثل عيد ميلادهم (إن وجد).</string>
+    <string name="more_profile_info_title">إظهار المزيد من المعلومات حول الملف الشخصي</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">يبلغ عدد الإشعارات الجديدة أكثر من %1$d.</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
+    <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
+    <string name="mtrl_picker_day_of_week_column_header">عمود الأيام: %1$s</string>
+    <string name="mtrl_picker_invalid_format">التنسيق غير صالح</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">استخدام: %1$s</string>
+    <string name="mtrl_picker_invalid_range">النطاق غير صالح</string>
+    <string name="mtrl_picker_navigate_to_year_description">التنقل إلى العام %1$s</string>
+    <string name="mtrl_picker_out_of_range">خارج النطاق: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاريخ البدء – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاريخ الانتهاء</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">يُرجى اختيار نطاق زمني.</string>
+    <string name="mtrl_picker_range_header_unselected">تاريخ البدء - تاريخ الانتهاء</string>
+    <string name="mtrl_picker_save">حـفظ😻</string>
+    <string name="mtrl_picker_text_input_date_hint">التاريخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاريخ الانتهاء</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاريخ البدء</string>
+    <string name="mtrl_picker_text_input_day_abbr">ي</string>
+    <string name="mtrl_picker_text_input_month_abbr">ش</string>
+    <string name="mtrl_picker_text_input_year_abbr">س</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">التبديل إلى وضع "الإدخال في التقويم"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى اختيار يوم</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع "إدخال النص"</string>
+    <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
+    <string name="mtrl_timepicker_confirm">حسناً</string>
+    <string name="network_body">طلب تسجيل هيكل شبكة</string>
+    <string name="not_set">لم يتمّ تحديد قيمة.</string>
+    <string name="override_snap_description">يفرض إرسال جميع الصور/مقاطع الفيديو المرسلة في الدردشات على أنها سناب حية</string>
+    <string name="override_snap_timer_description">يضبط مؤقت لقطات المعرض (بالثواني).</string>
+    <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="preference_copied">تم نسخ "%1$s" إلى الحافظة.</string>
+    <string name="privacy_header">الحماية والخصوصية</string>
+    <string name="public_dp_resolution_description">درجة الدقة (العرض والارتفاع) لتنزيل صور الملف الشخصي العامة على.</string>
+    <string name="public_dp_resolution_title">دقة تنزيل DP العامة</string>
+    <string name="save_any_description">يسمح بأي نوع من الرسائل ليتم حفظها. هذا مطلوب أحيانًا لحفظ اللقطات والملاحظات الصوتية.</string>
+    <string name="save_any_title">احفظ أي رسالة</string>
+    <string name="search_menu_title">البحث</string>
+    <string name="send_gallery_as_snaps_title">إرسال المعرض كـ سناب</string>
+    <string name="snap_type_override_title">🧪 تجاوز نوع سناب</string>
+    <string name="snaps_header">Snaps</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
+    <string name="title_activity_settings">إعـدادات</string>
+    <string name="tweaks_header">القرص</string>
+    <string name="unlimited_snap_duration_description">ستتكرر القصص واللقطات ولن يتم إغلاقها تلقائيًا أو التقدم تلقائيًا.</string>
+    <string name="unlimited_snap_duration_title">مدة سناب/قصة غير محدودة</string>
+    <string name="use_android_download_manager_description">ما إذا كنت تريد استخدام مدير تنزيل نظام Android أم لا. هذا مطلوب عند التنزيل إلى الدلائل العامة على Android 11+.حاول إيقاف تشغيل هذا إذا كنت تواجه مشكلات في تنزيل الوسائط.</string>
+    <string name="use_android_download_manager_title">استخدم Android مدير التحميل</string>
+    <string name="v7_preference_off">إيقاف</string>
+    <string name="v7_preference_on">مفعّلة</string>
+</resources>
